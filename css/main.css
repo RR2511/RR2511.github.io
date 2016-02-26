@@ -54,6 +54,7 @@ hr {
 }
 .section-header {
   margin-bottom: 50px;
+    margin-top: 20px;
 }
 .section-header .section-title {
   font-size: 44px;
